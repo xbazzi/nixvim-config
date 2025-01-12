@@ -17,7 +17,7 @@
         html = {
           enable = true;
         };
-        clang = {
+        clangd = {
           enable = true;
         };
         lua_ls = {
